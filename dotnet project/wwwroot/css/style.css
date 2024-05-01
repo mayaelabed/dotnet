@@ -20,7 +20,7 @@ body {
 .nav-bar {
   font-family: "Poppins", sans-serif;
   display: flex;
-  /* background-color: var(--nav-bg-color); */
+  background-color: var(--nav-bg-color); 
   padding: 1.1rem 0.5px;
   width: 100%;
   justify-content: space-around;
